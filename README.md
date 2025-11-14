@@ -1,16 +1,14 @@
-## Hi there 👋
+## hi, i'm cameron 👋
 
-<!--
-**ccrimmel/ccrimmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cs @ seattle university (honors) • he/him
+software engineering • broadcast & media technology • health informatics
 
-Here are some ideas to get you started:
+### 🔭 currently working on:
+ → building a spotify-integrated discord bot
+ → learning **c++** and **python** 
+ → broadcast production for su athletics & espn+
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 contact:  
+ → ccrimmel@outlook.com
+ → discord: @jwyified
+ 
